@@ -6,7 +6,7 @@ Civil Computer Engineer - Front End Developer
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [diaz.m.patricio@gmail.com](mailto:diaz.m.patricio@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning React Native, Vue, Angular and TypeScript
 
 ### Skills
 
